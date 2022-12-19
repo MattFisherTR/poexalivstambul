@@ -1,0 +1,15 @@
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\bin\Debug\net6.0\dzshka.exe
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\bin\Debug\net6.0\dzshka.deps.json
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\bin\Debug\net6.0\dzshka.runtimeconfig.json
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\bin\Debug\net6.0\dzshka.dll
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\bin\Debug\net6.0\dzshka.pdb
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.csproj.AssemblyReference.cache
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.AssemblyInfoInputs.cache
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.AssemblyInfo.cs
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.csproj.CoreCompileInputs.cache
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.dll
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\refint\dzshka.dll
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.pdb
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\dzshka.genruntimeconfig.cache
+C:\Users\OKAJIBANANA\Desktop\selenagomezXY\dzshka\obj\Debug\net6.0\ref\dzshka.dll
